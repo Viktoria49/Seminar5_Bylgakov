@@ -36,10 +36,10 @@ void PrintArray (int[] array)
     Console.WriteLine("]");
 }
 
-int[] arr = CreateArrayRndInt(4, -10, 11);
-PrintArray(arr);
-int[] a = ReplacePosElemArray(arr);
-PrintArray(a);
+// int[] arr = CreateArrayRndInt(4, -10, 11);
+// PrintArray(arr);
+// int[] a = ReplacePosElemArray(arr);
+// PrintArray(a);
 
 // Console.WriteLine($"Сумма отрицательных элементов = {sumPosNegElem[0]}");
 // Console.WriteLine($"Сумма положительных элементов = {sumPosNegElem[1]}");
